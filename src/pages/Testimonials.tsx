@@ -10,7 +10,7 @@ const Testimonials = () => {
       name: "Sarah & Michael Chen",
       wedding: "Château de Versailles, France",
       image: "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?auto=format&fit=crop&w=150&h=150&q=80",
-      quote: "Elena captured our wedding with such artistry and emotion. Every photograph tells the story of our love beautifully. We couldn't be happier with the results.",
+      quote: "Akoll captured our wedding with such artistry and emotion. Every photograph tells the story of our love beautifully. We couldn't be happier with the results.",
       rating: 5,
       venue: "Luxury Destination",
       featured: true
